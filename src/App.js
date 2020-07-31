@@ -3,7 +3,6 @@ import Navbar from "./components/NavBar/Navbar";
 import TourList from "./components/TourList";
 
 import "./App.scss";
-import Tour from "./components/Tour/tour";
 
 class App extends Component {
   render() {
